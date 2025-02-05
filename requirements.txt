@@ -1,0 +1,11 @@
+agno
+python-dotenv
+ollama
+groq
+sqlalchemy 
+psycopg-binary
+pgvector
+openai
+fastapi[standard]
+python-multipart
+uvicorn
