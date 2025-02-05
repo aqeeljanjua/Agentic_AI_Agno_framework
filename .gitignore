@@ -2,7 +2,8 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+database/
+agent_sessions_json/
 # C extensions
 *.so
 
@@ -169,3 +170,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+#db files
+*.db
+logic.ipynb
